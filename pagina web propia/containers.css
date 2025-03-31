@@ -1,0 +1,27 @@
+
+
+*{
+    margin:1%;
+    box-sizing: border-box;
+    padding: 1%;
+}
+.main{
+    background-color: rgb(39, 255, 255);
+    border: 2px solid rgb(0,0,0);
+    width: 100%;
+}
+
+.container{
+    background-color: rgb(241, 102, 8);
+    padding: 30;
+    border: 2px solid black;
+
+    display: flex;
+    /*flex-directation: column;*/
+    flex-wrap: wrap;
+}
+.box{
+    border: 4x solid black;
+    margin: 38;
+    font-size: 40
+}
